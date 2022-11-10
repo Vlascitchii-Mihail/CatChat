@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CatChat</string>
+    <string name="inbox">Inbox</string>
+    <string name="help_fragment">Help</string>
 </resources>
