@@ -7,16 +7,17 @@ import android.view.View
 import android.view.ViewGroup
 
 
+
 /**
  * A simple [Fragment] subclass.
  */
-class HelpFragment : Fragment() {
+class SentItemsFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_help, container, false)
+        return inflater.inflate(R.layout.fragment_sent_items, container, false)
     }
 }

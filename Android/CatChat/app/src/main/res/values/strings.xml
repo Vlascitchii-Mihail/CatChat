@@ -2,4 +2,10 @@
     <string name="app_name">CatChat</string>
     <string name="inbox">Inbox</string>
     <string name="help_fragment">Help</string>
+    <string name="menu_help">Help</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sent_items">Sent Items</string>
+    <string name="menu_inbox">Inbox</string>
+    <string name="menu_send_items">Send Items</string>
+    <string name="menu_2_support">Support</string>
 </resources>
